@@ -42,5 +42,5 @@
 
 ### 🌐 Connect With Me
 - GitHub: https://github.com/shinobiwanshin  
-- LinkedIn: *(add your link)*  
+- LinkedIn: (https://www.linkedin.com/in/amitabha-nath-b49245252/)
 - Email: supersaiyan2k03@gmail.com
