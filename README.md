@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amitabha Nath</h1>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • React • Web3</h3>
 
-<!--
-**shinobiwanshin/shinobiwanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 CSE Student at **VIT-AP**
+- 💻 Interested in **Backend, Full Stack & Web3**
+- 🔨 Building with **Spring Boot, React, PostgreSQL**
+- 🌱 Currently improving **system design & DSA**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,nodejs,postgres,mongodb,solidity,git,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shinobiwanshin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shinobiwanshin&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+- 🔗 **Crowdfunding Platform (Web3)**  
+  Blockchain-based decentralized fundraising platform  
+
+- 🎟️ **Booking Site**  
+  Spring Boot + React + PostgreSQL + Keycloak  
+
+- 📊 **Frappe React Dashboard**  
+  React dashboards integrated with Frappe backend  
+
+---
+
+### 🌐 Connect With Me
+- GitHub: https://github.com/shinobiwanshin  
+- LinkedIn: *(add your link)*  
+- Email: supersaiyan2k03@gmail.com
